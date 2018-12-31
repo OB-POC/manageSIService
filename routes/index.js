@@ -82,6 +82,4 @@ router.post('/si/suggestions', function(req, res, next) {
     })
   });
 })
-
-
 module.exports = router;
